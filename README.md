@@ -6,3 +6,6 @@ https://drive.google.com/file/d/1Hj1-KbP38l6YNZpE9MqNX3EdMHIYu6j_/view?usp=shari
 
 Tableau Dashboard Link
 https://public.tableau.com/profile/akshar.kottuvada#!/vizhome/Vizag_Weather_DataDashboard/ForecastingDashboard
+
+Thanks to Krish Naik for this LSTM tutorial.
+https://www.youtube.com/watch?v=H6du_pfuznE
